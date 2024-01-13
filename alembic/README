@@ -1,0 +1,53 @@
+# Hotel and Spa Reservation CLI
+
+Welcome to the Hotel and Spa Reservation CLI project! This command-line application allows users to make reservations for hotel rooms and spa packages.
+
+## Getting Started
+
+These instructions will guide you on setting up and running the project on your local machine.
+
+### Prerequisites
+
+- Python 3.x
+- Pipenv
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Hazelnjoki/phase3-project3.0.git
+cd phase3-project3.0
+
+    Install dependencies and set up the virtual environment:
+
+bash
+
+pipenv install
+pipenv shell
+
+    Run the CLI application:
+
+bash
+
+python main.py
+
+Usage
+
+Follow the prompts in the command line to make a reservation. Enter the required information such as check-in date, check-out date, room type, and spa package.
+Features
+
+    Reservation management with SQLAlchemy ORM
+    Command-line interface for user interaction
+    Support for room types and spa packages
+    ...
+
+Contributing
+
+If you would like to contribute to the project, please follow the Contributing Guidelines.
+License
+
+This project is licensed under the MIT License.
+Acknowledgments
+
+    Special thanks to Hazelnjoki for initiating and working on this project.
